@@ -8,7 +8,9 @@
         "composer": "ichynul/tpext",
         "website": "https://gitee.com/tpext/tpext",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "tpext综合管理",
@@ -19,7 +21,9 @@
         "composer": "ichynul/tpextmanager",
         "website": "https://gitee.com/tpext/tpextmanager",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "后台框架",
@@ -30,7 +34,9 @@
         "composer": "ichynul/tpextmyadmin",
         "website": "https://gitee.com/tpext/tpextmyadmin",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "lightyear模板样式",
@@ -41,7 +47,9 @@
         "composer": "ichynul/lightyearadmin",
         "website": "https://gitee.com/tpext/lightyearadmin",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "tpext ui生成",
@@ -52,7 +60,9 @@
         "composer": "ichynul/tpextbuilder",
         "website": "https://gitee.com/tpext/tpextbuilder",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "mdeditor资源包",
@@ -63,7 +73,9 @@
         "composer": "ichynul/builder-mdeditor",
         "website": "https://gitee.com/tpext/builder-mdeditor",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "ckeditor资源包",
@@ -74,7 +86,9 @@
         "composer": "ichynul/builder-ckeditor",
         "website": "https://gitee.com/tpext/builder-ckeditor",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "tinymce资源包",
@@ -85,7 +99,9 @@
         "composer": "ichynul/builder-tinymce",
         "website": "https://gitee.com/tpext/builder-tinymce",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "ueditor资源包",
@@ -96,7 +112,9 @@
         "composer": "ichynul/builder-ueditor",
         "website": "https://gitee.com/tpext/builder-ueditor",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "中国省市区县乡镇",
@@ -107,7 +125,9 @@
         "composer": "ichynul/tpextareacity",
         "website": "https://gitee.com/tpext/tpextareacity",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "",
+        "version": ""
     },
     {
         "title": "myadmin演示",
@@ -116,19 +136,75 @@
         "tags": "未归类",
         "description": "提供demo数据库脚本，请下载压缩包[myadmindata.zip]解压放在extend目录",
         "composer": "extend 自定义",
-        "website": "https://gitee.com/tpext/myadmin/tree/5.0/extend",
+        "website": "https://gitee.com/tpext/myadmindata/releases",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "https://gitee.com/tpext/myadmindata/attach_files/771408/download/myadmindata.zip",
+        "version": "1.0.1"
     },
     {
         "title": "H+admin后台主框架模板样式",
         "name": "hplus.admin",
         "type": "resource",
-        "tags": "未归类",
+        "tags": "后台样式",
         "description": "提供[H+admin]相关样式资源，请下载压缩包[hplusadmin.zip]解压放在extend目录",
         "composer": "extend 自定义",
-        "website": "https://gitee.com/tpext/myadmin/tree/5.0/extend",
+        "website": "https://gitee.com/tpext/hplusadmin/releases",
         "platform": "*",
-        "is_free": "1"
+        "is_free": "1",
+        "extend_download": "https://gitee.com/tpext/hplusadmin/attach_files/771416/download/hplusadmin.zip",
+        "version": "1.0.1"
+    },
+    {
+        "title": "自定义扩展范例",
+        "name": "tpext.extdemo",
+        "type": "module",
+        "tags": "未归类",
+        "description": "可通过tp框架的`extend`目录来安装扩展，请下载压缩包[extdemo.zip]解压放在extend目录",
+        "composer": "extend 自定义",
+        "website": "https://gitee.com/tpext/extdemo/releases",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://gitee.com/tpext/extdemo/attach_files/771409/download/extdemo.zip",
+        "version": "1.0.1"
+    },
+    {
+        "title": "阿里云OSS存储",
+        "name": "builder.aliyunoss",
+        "type": "module",
+        "tags": "oss",
+        "description": "支持阿里云OSS存储文件上传功能，请下载压缩包[aliyunoss.zip]解压放在extend目录",
+        "composer": "extend 自定义",
+        "website": "https://gitee.com/tpext/aliyunoss/releases",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://gitee.com/tpext/aliyunoss/attach_files/771413/download/aliyunoss.zip",
+        "version": "1.0.1"
+    },
+    {
+        "title": "七牛云OSS存储",
+        "name": "builder.qiniuoss",
+        "type": "module",
+        "tags": "oss",
+        "description": "支持七牛云OSS存储文件上传功能，请下载压缩包[qiniuoss.zip]解压放在extend目录",
+        "composer": "extend 自定义",
+        "website": "https://gitee.com/tpext/qiniuoss/releases",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://gitee.com/tpext/qiniuoss/attach_files/771414/download/qiniuoss.zip",
+        "version": "1.0.1"
+    },
+    {
+        "title": "腾讯云OSS存储",
+        "name": "builder.tencentyunoss",
+        "type": "module",
+        "tags": "oss",
+        "description": "支持腾讯云OSS存储文件上传功能，请下载压缩包[tencentyunoss.zip]解压放在extend目录",
+        "composer": "extend 自定义",
+        "website": "https://gitee.com/tpext/tencentyunoss/releases",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://gitee.com/tpext/tencentyunoss/attach_files/771415/download/tencentyunoss.zip",
+        "version": "1.0.1"
     }
 ]
