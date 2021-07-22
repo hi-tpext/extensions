@@ -152,8 +152,8 @@
         "website": "https://gitee.com/tpext/hplusadmin/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://gitee.com/tpext/hplusadmin/attach_files/771416/download/hplusadmin.zip",
-        "version": "1.0.1"
+        "extend_download": "https://gitee.com/tpext/hplusadmin/attach_files/779724/download/hplusadmin.zip",
+        "version": "1.0.2"
     },
     {
         "title": "自定义扩展范例",
