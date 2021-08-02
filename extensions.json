@@ -179,7 +179,7 @@
         "platform": "*",
         "is_free": "1",
         "extend_download": "https://gitee.com/tpext/aliyunoss/attach_files/771413/download/aliyunoss.zip",
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     {
         "title": "七牛云OSS存储",
@@ -192,7 +192,7 @@
         "platform": "*",
         "is_free": "1",
         "extend_download": "https://gitee.com/tpext/qiniuoss/attach_files/771414/download/qiniuoss.zip",
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     {
         "title": "腾讯云OSS存储",
@@ -205,6 +205,6 @@
         "platform": "*",
         "is_free": "1",
         "extend_download": "https://gitee.com/tpext/tencentyunoss/attach_files/771415/download/tencentyunoss.zip",
-        "version": "1.0.1"
+        "version": "1.0.2"
     }
 ]
