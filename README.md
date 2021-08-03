@@ -1,4 +1,8 @@
-# 欢迎使用 tpext扩展仓库
+# tpext扩展仓库
+
+## 如何提交扩展？
+
+修改`extensions.json`文件，然后提交pr。
 
 ## 格式
 
