@@ -206,5 +206,18 @@
         "is_free": "1",
         "extend_download": "https://gitee.com/tpext/tencentyunoss/attach_files/794876/download/tencentyunoss.zip",
         "version": "1.0.2"
+    },
+    {
+        "title": "workerman定时任务 ",
+        "name": "wokman.crontab",
+        "type": "module",
+        "tags": "未归类",
+        "description": "基于workerman的定时任务管理",
+        "composer": "extend 自定义",
+        "website": "https://gitee.com/tpext/wokcrontab/releases",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://gitee.com/tpext/wokcrontab/attach_files/853671/download/wokcrontab.zip",
+        "version": "1.0.1"
     }
 ]
