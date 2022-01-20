@@ -208,7 +208,7 @@
         "version": "1.0.2"
     },
     {
-        "title": "workerman定时任务 ",
+        "title": "workerman定时任务",
         "name": "wokman.crontab",
         "type": "module",
         "tags": "未归类",
@@ -217,7 +217,7 @@
         "website": "https://gitee.com/tpext/wokcrontab/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://gitee.com/tpext/wokcrontab/attach_files/928613/download/wokcrontab.zip",
-        "version": "1.0.5"
+        "extend_download": "https://gitee.com/tpext/wokcrontab/attach_files/949449/download/wokcrontab.zip",
+        "version": "1.0.6"
     }
 ]
