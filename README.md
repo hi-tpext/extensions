@@ -34,11 +34,11 @@
 
 如[hplusadmin.zip]压缩包结构：
 
-\-hplusadmin
-\------admin
-\------assets
-\------common
-\------LICENSE.txt
-\------README.md
+\-hplusadmin  
+\------admin  
+\------assets  
+\------common  
+\------LICENSE.txt  
+\------README.md  
 
 hplusadmin为顶级目录，admin、assets等为二级目录。
