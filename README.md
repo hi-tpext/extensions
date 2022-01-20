@@ -23,3 +23,22 @@
     }
 ]
 ```
+## extend 压缩包
+
+### 格式zip
+只支持zip格式的压缩包
+
+### 内部结构
+
+解压以后，必须包含一个顶级目录，其他文件夹、文件都包含在此目录中
+
+如[hplusadmin.zip]压缩包结构：
+
+\-hplusadmin
+\------admin
+\------assets
+\------common
+\------LICENSE.txt
+\------README.md
+
+hplusadmin为顶级目录，admin、assets等为二级目录。
