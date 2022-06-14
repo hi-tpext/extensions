@@ -219,5 +219,18 @@
         "is_free": "1",
         "extend_download": "https://www.gitlink.org.cn/api/attachments/387817",
         "version": "1.0.8"
+    },
+    {
+        "title": "Cool-Admin",
+        "name": "cool.admin",
+        "type": "resource",
+        "tags": "未归类",
+        "description": "基于 [Vue + Element] 对 `tpextmyadmin`的UI替换方案",
+        "composer": "extend 自定义",
+        "website": "https://www.gitlink.org.cn/hi-tpext/cooladmin/releases",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/388286",
+        "version": "1.0.1"
     }
 ]
