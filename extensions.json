@@ -87,7 +87,7 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/builder-ckeditor",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/391942",
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/391947",
         "version": "1.0.2"
     },
     {
@@ -100,7 +100,7 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/builder-tinymce",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/391943",
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/391946",
         "version": "1.0.2"
     },
     {
@@ -113,7 +113,7 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/builder-ueditor",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/391941",
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/391944",
         "version": "1.0.2"
     },
     {
