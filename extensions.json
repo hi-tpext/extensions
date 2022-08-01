@@ -83,12 +83,12 @@
         "type": "resource",
         "tags": "未归类",
         "description": "为[tpext.builder]提供[ckeditor]相关样式资源",
-        "composer": "ichynul/builder-ckeditor",
+        "composer": "extend 自定义",
         "website": "https://www.gitlink.org.cn/hi-tpext/builder-ckeditor",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "",
-        "version": ""
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/391942",
+        "version": "1.0.2"
     },
     {
         "title": "tinymce资源包",
@@ -96,12 +96,12 @@
         "type": "resource",
         "tags": "未归类",
         "description": "为[tpext.builder]提供[tinymce]相关样式资源",
-        "composer": "ichynul/builder-tinymce",
+        "composer": "extend 自定义",
         "website": "https://www.gitlink.org.cn/hi-tpext/builder-tinymce",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "",
-        "version": ""
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/391943",
+        "version": "1.0.2"
     },
     {
         "title": "ueditor资源包",
@@ -109,12 +109,12 @@
         "type": "resource",
         "tags": "未归类",
         "description": "为[tpext.builder]提供[ueditor]相关样式资源",
-        "composer": "ichynul/builder-ueditor",
+        "composer": "extend 自定义",
         "website": "https://www.gitlink.org.cn/hi-tpext/builder-ueditor",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "",
-        "version": ""
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/391941",
+        "version": "1.0.2"
     },
     {
         "title": "中国省市区县乡镇",
