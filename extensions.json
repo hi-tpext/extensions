@@ -152,8 +152,8 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/hplusadmin/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/387813",
-        "version": "1.0.6"
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/392356",
+        "version": "1.0.7"
     },
     {
         "title": "自定义扩展范例",
@@ -230,7 +230,7 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/cooladmin/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/391211",
-        "version": "1.0.4"
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/392355",
+        "version": "1.0.5"
     }
 ]
