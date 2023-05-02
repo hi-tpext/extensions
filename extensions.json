@@ -139,8 +139,8 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/myadmindata/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/387814",
-        "version": "1.0.1"
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/417459",
+        "version": "1.0.2"
     },
     {
         "title": "H+admin后台主框架模板样式",
