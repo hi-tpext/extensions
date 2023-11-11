@@ -232,5 +232,18 @@
         "is_free": "1",
         "extend_download": "https://www.gitlink.org.cn/api/attachments/392355",
         "version": "1.0.5"
+    },
+    {
+        "title": "Vue-next-admin",
+        "name": "vue.next.admin",
+        "type": "resource",
+        "tags": "未归类",
+        "description": "基于[Vue-next-admin]对tpextmyadmin的UI替换",
+        "composer": "extend 自定义",
+        "website": "https://www.gitlink.org.cn/hi-tpext/vue-next-admin/releases",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/439366",
+        "version": "1.0.1"
     }
 ]
