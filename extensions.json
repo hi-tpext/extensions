@@ -217,8 +217,8 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/wokcrontab/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/408366",
-        "version": "1.0.12"
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/442182",
+        "version": "1.0.13"
     },
     {
         "title": "Cool-Admin",
