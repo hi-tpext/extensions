@@ -1,5 +1,18 @@
 [
     {
+        "title": "提示",
+        "name": "tpext.notice",
+        "type": "module",
+        "tags": "提示",
+        "description": "在线下载安装方式暂不可用（没有合适的地方存放压缩包），可手动下载压缩包上传安装。",
+        "composer": "---",
+        "website": "https://www.gitlink.org.cn/hi-tpext",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://www.gitlink.org.cn/hi-tpext",
+        "version": "1.0"
+    },
+    {
         "title": "tpext基础",
         "name": "tpext.core",
         "type": "module",
@@ -243,7 +256,7 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/vue-next-admin/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/440715",
-        "version": "1.0.2"
+        "extend_download": "https://www.gitlink.org.cn/api/attachments/442442",
+        "version": "1.0.3"
     }
 ]
