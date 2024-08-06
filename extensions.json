@@ -152,8 +152,8 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/hplusadmin/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/392356",
-        "version": "1.0.7"
+        "extend_download": "https://www.gitlink.org.cn/hi-tpext/hplusadmin/releases/download/1.0.8/hplusadmin.zip",
+        "version": "1.0.8"
     },
     {
         "title": "自定义扩展范例",
