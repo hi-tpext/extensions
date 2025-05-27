@@ -69,7 +69,7 @@
         "name": "tpext.tinyvue",
         "type": "module",
         "tags": "ui-builder",
-        "description": "vue3 + tinyvue后台ui生成",
+        "description": "vue3 + tinyvue后台ui生成。注意，ui生成只能安装其中一种。",
         "composer": "ichynul/tpext-tinyvue",
         "website": "https://gitlink.org.cn/hi-tpext/tpext-tinyvue",
         "platform": "tp6.x,tp8.x",
@@ -82,7 +82,7 @@
         "name": "tpext.vexipui",
         "type": "module",
         "tags": "ui-builder",
-        "description": "vue3 + vexipui后台ui生成",
+        "description": "vue3 + vexipui后台ui生成。注意，ui生成只能安装其中一种。",
         "composer": "ichynul/tpext-vexipui",
         "website": "https://gitlink.org.cn/hi-tpext/tpext-vexipui",
         "platform": "tp6.x,tp8.x",
@@ -152,8 +152,8 @@
         "website": "https://gitlink.org.cn/hi-tpext/tpext-cms",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.2/cms.zip",
-        "version": "2.0.2"
+        "extend_download": "https://gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.3/cms.zip",
+        "version": "2.0.3"
     },
     {
         "title": "中国省市区县乡镇",
