@@ -152,7 +152,7 @@
         "website": "https://gitlink.org.cn/hi-tpext/tpext-cms",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.6/cms.zip",
+        "extend_download": "https://www.gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.7/cms.zip",
         "version": "2.0.6"
     },
     {
