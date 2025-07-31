@@ -191,8 +191,8 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/hplusadmin/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/hi-tpext/hplusadmin/releases/download/1.0.8/hplusadmin.zip",
-        "version": "1.0.8"
+        "extend_download": "https://www.gitlink.org.cn/hi-tpext/hplusadmin/releases/download/1.0.9/hplusadmin.zip",
+        "version": "1.0.9"
     },
     {
         "title": "自定义扩展范例",
@@ -282,8 +282,8 @@
         "website": "https://www.gitlink.org.cn/hi-tpext/cooladmin/releases",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/api/attachments/392355",
-        "version": "1.0.5"
+        "extend_download": "https://www.gitlink.org.cn/hi-tpext/cooladmin/releases/download/1.0.6/cooladmin.zip",
+        "version": "1.0.6"
     },
     {
         "title": "Vue-next-admin",
