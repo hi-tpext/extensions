@@ -152,8 +152,8 @@
         "website": "https://gitlink.org.cn/hi-tpext/tpext-cms",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.8/cms.zip",
-        "version": "2.0.8"
+        "extend_download": "https://www.gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.9/cms.zip",
+        "version": "2.0.9"
     },
     {
         "title": "中国省市区县乡镇",
