@@ -152,8 +152,8 @@
         "website": "https://gitlink.org.cn/hi-tpext/tpext-cms",
         "platform": "*",
         "is_free": "1",
-        "extend_download": "https://www.gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.10/cms.zip",
-        "version": "2.0.10"
+        "extend_download": "https://www.gitlink.org.cn/hi-tpext/tpext-cms/releases/download/2.0.11/cms.zip",
+        "version": "2.0.11"
     },
     {
         "title": "中国省市区县乡镇",
@@ -269,8 +269,8 @@
         "website": "https://gitlink.org.cn/hi-tpext/wokmansse/releases",
         "platform": "tp8/webman",
         "is_free": "1",
-        "extend_download": "https://gitlink.org.cn/hi-tpext/wokmansse/releases/download/1.0.1/wokmansse.zip",
-        "version": "1.0.1"
+        "extend_download": "https://gitlink.org.cn/hi-tpext/wokmansse/releases/download/1.0.2/wokmansse.zip",
+        "version": "1.0.2"
     },
     {
         "title": "Cool-Admin",
