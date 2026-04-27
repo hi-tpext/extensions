@@ -269,8 +269,8 @@
         "website": "https://gitlink.org.cn/hi-tpext/wokmansse/releases",
         "platform": "tp8/webman",
         "is_free": "1",
-        "extend_download": "https://gitlink.org.cn/hi-tpext/wokmansse/releases/download/1.0.2/wokmansse.zip",
-        "version": "1.0.2"
+        "extend_download": "https://gitlink.org.cn/hi-tpext/wokmansse/releases/download/1.0.3/wokmansse.zip",
+        "version": "1.0.3"
     },
     {
         "title": "Cool-Admin",
