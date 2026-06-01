@@ -168,6 +168,19 @@
         "extend_download": "https://www.gitlink.org.cn/hi-tpext/tpextareacity/releases/download/1.2.6/areacity.zip",
         "version": "1.0.5"
     },
+	{
+        "title": "定位坐标转为地址",
+        "name": "tpext.geocoder",
+        "type": "module",
+        "tags": "未归类",
+        "description": "坐标转为地址，支持省市区县三级",
+        "composer": "extend 自定义",
+        "website": "https://gitlink.org.cn/hi-tpext/tpext-geocoder",
+        "platform": "*",
+        "is_free": "1",
+        "extend_download": "https://gitlink.org.cn/hi-tpext/tpext-geocoder/releases/download/1.0.1/geocoder.zip",
+        "version": "1.0.1"
+    },
     {
         "title": "myadmin演示",
         "name": "myadmin.data",
